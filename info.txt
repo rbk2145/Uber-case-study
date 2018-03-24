@@ -1,0 +1,35 @@
+Case Study Guidelines
+
+As a data scientist, you will work on many data projects. As a deliverable for these projects, you would need to present your analysis and findings to your clients or the stakeholders. Now, to ensure that you always deliver high-quality work, you need to follow certain guidelines.
+
+ 
+Similarly, for this case study- we have tried laying down some guiding principles w.r.t what a good data-driven analysis may look like. You may use this to guide your approach.
+
+1111 Data Cleaning and Manipulation
+
+All data quality issues are correctly identified and reported.
+The data is converted to a clean format suitable for analysis in Python. New metrics are derived wherever required and are used for analysis.
+
+2222 Data Analysis 
+
+The right problem is solved which is coherent with the needs of the business. The analysis has a clear structure and the flow is easy to understand.
+Realistic assumptions are made and proper reasons are given for all choices made.
+The time slots and problems are identified correctly with valid reasons.
+Univariate and segmented analysis are done correctly and successfully identify the problems.
+The demand and supply are defined properly and the numbers are correct.
+All relevant plots during the analysis are created. The choice of plots is correct, i.e. the plots clearly display the important insights. The reason for choosing certain plots, aesthetics and geometries etc. is mentioned in the comments.
+All major issues are correctly pointed out.
+
+33333 Presentation and Recommendations
+
+The presentation has a clear structure, is not too long, and explains the most important results concisely.
+The recommendations to solve the problems are realistic, actionable and coherent with the analysis. 
+If any assumptions are made, they are stated clearly. 
+
+4444 Conciseness and Readability of the Code
+
+The code is concise and syntactically correct.
+Wherever appropriate, built-in functions are used instead of writing long code (if-else statements, for loops).
+Custom functions are used to perform repetitive tasks.
+The code is readable with variables appropriately named and detailed comments are written wherever necessary
+You may also use the following ppt template to include in your submission.
